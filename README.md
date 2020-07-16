@@ -1,10 +1,9 @@
-# SAyHello v1.0
-## Author: github.com/thelinuxchoice/sayhello
-## Twitter: twitter.com/linux_choice
+# SAyHello v1.1
+## Author: github.com/abhackerofficial/sayhello
 
 Capturing audio (.wav) from target using a link
 
-![hello](https://user-images.githubusercontent.com/34893261/66277580-c7f4b980-e876-11e9-9d05-e3170ad9278e.png)
+![sayhello](https://user-images.githubusercontent.com/63346676/87696555-966a3080-c7ae-11ea-8b34-2b7cbe772810.jpg)
 
 ### How it works?
 
@@ -21,15 +20,7 @@ Usage of SayHello for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/sayhello
+git clone https://github.com/abhackerofficial/sayhello
 cd sayhello
 bash sayhello.sh
 ```
-
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-# sayhello
